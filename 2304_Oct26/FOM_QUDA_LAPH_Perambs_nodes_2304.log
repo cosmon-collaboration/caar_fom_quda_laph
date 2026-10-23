@@ -1,0 +1,229 @@
+/lustre/orion/scratch/mcamacho/csc728/software/quda_laph/quda_laph_rocm_7_2_0 /lustre/orion/scratch/mcamacho/csc728/FOM/2304
+
+The following have been reloaded with a version change:
+  1) cray-libsci/24.11.0 => cray-libsci/26.03.0
+  2) cray-mpich/8.1.31 => cray-mpich/9.1.0
+  3) craype/2.7.33 => craype/2.7.36
+  4) gcc-native/13.2 => gcc-native/14.2
+
+
+Lmod is automatically replacing "PrgEnv-gnu/8.7.0" with "PrgEnv-amd/8.7.0".
+
+
+Lmod is automatically replacing "gcc-native/14.2" with "amd/7.2.0".
+
+
+Due to MODULEPATH changes, the following have been reloaded:
+  1) cray-libsci/26.03.0     2) cray-mpich/9.1.0
+
+
+Currently Loaded Modules:
+  1) Core/25.03           10) rocm/7.2.0
+  2) craype-network-ofi   11) craype-x86-trento
+  3) cpe/26.03            12) cmake/4.1.0
+  4) craype/2.7.36        13) openblas/0.3.28-omp
+  5) cray-dsmml/0.3.0     14) papi/7.2.0.2
+  6) cray-mpich/9.1.0     15) python/3.13.0
+  7) cray-libsci/26.03.0  16) ninja/1.12.1        (E4S)
+  8) PrgEnv-amd/8.7.0     17) libfabric/2.3.1
+  9) amd/7.2.0
+
+  Where:
+   E4S:  E4S: Extreme-scale Scientific Software Stack (E4S) https://e4s.io/index.html
+
+ 
+
+/lustre/orion/scratch/mcamacho/csc728/FOM/2304
+/lustre/orion/scratch/mcamacho/csc728/FOM/2304/600/mpirun0 /lustre/orion/scratch/mcamacho/csc728/FOM/2304
+/lustre/orion/scratch/mcamacho/csc728/FOM/2304
+/lustre/orion/scratch/mcamacho/csc728/FOM/2304/600/mpirun1 /lustre/orion/scratch/mcamacho/csc728/FOM/2304
+/lustre/orion/scratch/mcamacho/csc728/FOM/2304
+/lustre/orion/scratch/mcamacho/csc728/FOM/2304/600/mpirun2 /lustre/orion/scratch/mcamacho/csc728/FOM/2304
+/lustre/orion/scratch/mcamacho/csc728/FOM/2304
+/lustre/orion/scratch/mcamacho/csc728/FOM/2304/600/mpirun3 /lustre/orion/scratch/mcamacho/csc728/FOM/2304
+/lustre/orion/scratch/mcamacho/csc728/FOM/2304
+/lustre/orion/scratch/mcamacho/csc728/FOM/2304/600/mpirun4 /lustre/orion/scratch/mcamacho/csc728/FOM/2304
+/lustre/orion/scratch/mcamacho/csc728/FOM/2304
+/lustre/orion/scratch/mcamacho/csc728/FOM/2304/600/mpirun5 /lustre/orion/scratch/mcamacho/csc728/FOM/2304
+/lustre/orion/scratch/mcamacho/csc728/FOM/2304
+/lustre/orion/scratch/mcamacho/csc728/FOM/2304/600/mpirun6 /lustre/orion/scratch/mcamacho/csc728/FOM/2304
+/lustre/orion/scratch/mcamacho/csc728/FOM/2304
+/lustre/orion/scratch/mcamacho/csc728/FOM/2304/600/mpirun7 /lustre/orion/scratch/mcamacho/csc728/FOM/2304
+/lustre/orion/scratch/mcamacho/csc728/FOM/2304
+/lustre/orion/scratch/mcamacho/csc728/FOM/2304/600/mpirun8 /lustre/orion/scratch/mcamacho/csc728/FOM/2304
+/lustre/orion/scratch/mcamacho/csc728/FOM/2304
+/lustre/orion/scratch/mcamacho/csc728/FOM/2304/600/mpirun9 /lustre/orion/scratch/mcamacho/csc728/FOM/2304
+/lustre/orion/scratch/mcamacho/csc728/FOM/2304
+/lustre/orion/scratch/mcamacho/csc728/FOM/2304/600/mpirun10 /lustre/orion/scratch/mcamacho/csc728/FOM/2304
+/lustre/orion/scratch/mcamacho/csc728/FOM/2304
+/lustre/orion/scratch/mcamacho/csc728/FOM/2304/600/mpirun11 /lustre/orion/scratch/mcamacho/csc728/FOM/2304
+/lustre/orion/scratch/mcamacho/csc728/FOM/2304
+/lustre/orion/scratch/mcamacho/csc728/FOM/2304/600/mpirun12 /lustre/orion/scratch/mcamacho/csc728/FOM/2304
+/lustre/orion/scratch/mcamacho/csc728/FOM/2304
+/lustre/orion/scratch/mcamacho/csc728/FOM/2304/600/mpirun13 /lustre/orion/scratch/mcamacho/csc728/FOM/2304
+/lustre/orion/scratch/mcamacho/csc728/FOM/2304
+/lustre/orion/scratch/mcamacho/csc728/FOM/2304/600/mpirun14 /lustre/orion/scratch/mcamacho/csc728/FOM/2304
+/lustre/orion/scratch/mcamacho/csc728/FOM/2304
+/lustre/orion/scratch/mcamacho/csc728/FOM/2304/600/mpirun15 /lustre/orion/scratch/mcamacho/csc728/FOM/2304
+/lustre/orion/scratch/mcamacho/csc728/FOM/2304
+/lustre/orion/scratch/mcamacho/csc728/FOM/2304/600/mpirun16 /lustre/orion/scratch/mcamacho/csc728/FOM/2304
+/lustre/orion/scratch/mcamacho/csc728/FOM/2304
+/lustre/orion/scratch/mcamacho/csc728/FOM/2304/600/mpirun17 /lustre/orion/scratch/mcamacho/csc728/FOM/2304
+/lustre/orion/scratch/mcamacho/csc728/FOM/2304
+/lustre/orion/scratch/mcamacho/csc728/FOM/2304/600/mpirun18 /lustre/orion/scratch/mcamacho/csc728/FOM/2304
+/lustre/orion/scratch/mcamacho/csc728/FOM/2304
+/lustre/orion/scratch/mcamacho/csc728/FOM/2304/600/mpirun19 /lustre/orion/scratch/mcamacho/csc728/FOM/2304
+/lustre/orion/scratch/mcamacho/csc728/FOM/2304
+/lustre/orion/scratch/mcamacho/csc728/FOM/2304/600/mpirun20 /lustre/orion/scratch/mcamacho/csc728/FOM/2304
+/lustre/orion/scratch/mcamacho/csc728/FOM/2304
+/lustre/orion/scratch/mcamacho/csc728/FOM/2304/600/mpirun21 /lustre/orion/scratch/mcamacho/csc728/FOM/2304
+/lustre/orion/scratch/mcamacho/csc728/FOM/2304
+/lustre/orion/scratch/mcamacho/csc728/FOM/2304/600/mpirun22 /lustre/orion/scratch/mcamacho/csc728/FOM/2304
+/lustre/orion/scratch/mcamacho/csc728/FOM/2304
+/lustre/orion/scratch/mcamacho/csc728/FOM/2304/600/mpirun23 /lustre/orion/scratch/mcamacho/csc728/FOM/2304
+/lustre/orion/scratch/mcamacho/csc728/FOM/2304
+/lustre/orion/scratch/mcamacho/csc728/FOM/2304/600/mpirun24 /lustre/orion/scratch/mcamacho/csc728/FOM/2304
+/lustre/orion/scratch/mcamacho/csc728/FOM/2304
+/lustre/orion/scratch/mcamacho/csc728/FOM/2304/600/mpirun25 /lustre/orion/scratch/mcamacho/csc728/FOM/2304
+/lustre/orion/scratch/mcamacho/csc728/FOM/2304
+/lustre/orion/scratch/mcamacho/csc728/FOM/2304/600/mpirun26 /lustre/orion/scratch/mcamacho/csc728/FOM/2304
+/lustre/orion/scratch/mcamacho/csc728/FOM/2304
+/lustre/orion/scratch/mcamacho/csc728/FOM/2304/600/mpirun27 /lustre/orion/scratch/mcamacho/csc728/FOM/2304
+/lustre/orion/scratch/mcamacho/csc728/FOM/2304
+/lustre/orion/scratch/mcamacho/csc728/FOM/2304/600/mpirun28 /lustre/orion/scratch/mcamacho/csc728/FOM/2304
+/lustre/orion/scratch/mcamacho/csc728/FOM/2304
+/lustre/orion/scratch/mcamacho/csc728/FOM/2304/600/mpirun29 /lustre/orion/scratch/mcamacho/csc728/FOM/2304
+/lustre/orion/scratch/mcamacho/csc728/FOM/2304
+/lustre/orion/scratch/mcamacho/csc728/FOM/2304/600/mpirun30 /lustre/orion/scratch/mcamacho/csc728/FOM/2304
+/lustre/orion/scratch/mcamacho/csc728/FOM/2304
+/lustre/orion/scratch/mcamacho/csc728/FOM/2304/600/mpirun31 /lustre/orion/scratch/mcamacho/csc728/FOM/2304
+/lustre/orion/scratch/mcamacho/csc728/FOM/2304
+/lustre/orion/scratch/mcamacho/csc728/FOM/2304/600/mpirun32 /lustre/orion/scratch/mcamacho/csc728/FOM/2304
+/lustre/orion/scratch/mcamacho/csc728/FOM/2304
+/lustre/orion/scratch/mcamacho/csc728/FOM/2304/600/mpirun33 /lustre/orion/scratch/mcamacho/csc728/FOM/2304
+/lustre/orion/scratch/mcamacho/csc728/FOM/2304
+/lustre/orion/scratch/mcamacho/csc728/FOM/2304/600/mpirun34 /lustre/orion/scratch/mcamacho/csc728/FOM/2304
+/lustre/orion/scratch/mcamacho/csc728/FOM/2304
+/lustre/orion/scratch/mcamacho/csc728/FOM/2304/600/mpirun35 /lustre/orion/scratch/mcamacho/csc728/FOM/2304
+/lustre/orion/scratch/mcamacho/csc728/FOM/2304
+/lustre/orion/scratch/mcamacho/csc728/FOM/2304/600/mpirun36 /lustre/orion/scratch/mcamacho/csc728/FOM/2304
+/lustre/orion/scratch/mcamacho/csc728/FOM/2304
+/lustre/orion/scratch/mcamacho/csc728/FOM/2304/600/mpirun37 /lustre/orion/scratch/mcamacho/csc728/FOM/2304
+/lustre/orion/scratch/mcamacho/csc728/FOM/2304
+/lustre/orion/scratch/mcamacho/csc728/FOM/2304/600/mpirun38 /lustre/orion/scratch/mcamacho/csc728/FOM/2304
+/lustre/orion/scratch/mcamacho/csc728/FOM/2304
+/lustre/orion/scratch/mcamacho/csc728/FOM/2304/600/mpirun39 /lustre/orion/scratch/mcamacho/csc728/FOM/2304
+/lustre/orion/scratch/mcamacho/csc728/FOM/2304
+/lustre/orion/scratch/mcamacho/csc728/FOM/2304/600/mpirun40 /lustre/orion/scratch/mcamacho/csc728/FOM/2304
+/lustre/orion/scratch/mcamacho/csc728/FOM/2304
+/lustre/orion/scratch/mcamacho/csc728/FOM/2304/600/mpirun41 /lustre/orion/scratch/mcamacho/csc728/FOM/2304
+/lustre/orion/scratch/mcamacho/csc728/FOM/2304
+/lustre/orion/scratch/mcamacho/csc728/FOM/2304/600/mpirun42 /lustre/orion/scratch/mcamacho/csc728/FOM/2304
+/lustre/orion/scratch/mcamacho/csc728/FOM/2304
+/lustre/orion/scratch/mcamacho/csc728/FOM/2304/600/mpirun43 /lustre/orion/scratch/mcamacho/csc728/FOM/2304
+/lustre/orion/scratch/mcamacho/csc728/FOM/2304
+/lustre/orion/scratch/mcamacho/csc728/FOM/2304/600/mpirun44 /lustre/orion/scratch/mcamacho/csc728/FOM/2304
+/lustre/orion/scratch/mcamacho/csc728/FOM/2304
+/lustre/orion/scratch/mcamacho/csc728/FOM/2304/600/mpirun45 /lustre/orion/scratch/mcamacho/csc728/FOM/2304
+/lustre/orion/scratch/mcamacho/csc728/FOM/2304
+/lustre/orion/scratch/mcamacho/csc728/FOM/2304/600/mpirun46 /lustre/orion/scratch/mcamacho/csc728/FOM/2304
+/lustre/orion/scratch/mcamacho/csc728/FOM/2304
+/lustre/orion/scratch/mcamacho/csc728/FOM/2304/600/mpirun47 /lustre/orion/scratch/mcamacho/csc728/FOM/2304
+/lustre/orion/scratch/mcamacho/csc728/FOM/2304
+/lustre/orion/scratch/mcamacho/csc728/FOM/2304/604/mpirun0 /lustre/orion/scratch/mcamacho/csc728/FOM/2304
+/lustre/orion/scratch/mcamacho/csc728/FOM/2304
+/lustre/orion/scratch/mcamacho/csc728/FOM/2304/604/mpirun1 /lustre/orion/scratch/mcamacho/csc728/FOM/2304
+/lustre/orion/scratch/mcamacho/csc728/FOM/2304
+/lustre/orion/scratch/mcamacho/csc728/FOM/2304/604/mpirun2 /lustre/orion/scratch/mcamacho/csc728/FOM/2304
+/lustre/orion/scratch/mcamacho/csc728/FOM/2304
+/lustre/orion/scratch/mcamacho/csc728/FOM/2304/604/mpirun3 /lustre/orion/scratch/mcamacho/csc728/FOM/2304
+/lustre/orion/scratch/mcamacho/csc728/FOM/2304
+/lustre/orion/scratch/mcamacho/csc728/FOM/2304/604/mpirun4 /lustre/orion/scratch/mcamacho/csc728/FOM/2304
+/lustre/orion/scratch/mcamacho/csc728/FOM/2304
+/lustre/orion/scratch/mcamacho/csc728/FOM/2304/604/mpirun5 /lustre/orion/scratch/mcamacho/csc728/FOM/2304
+/lustre/orion/scratch/mcamacho/csc728/FOM/2304
+/lustre/orion/scratch/mcamacho/csc728/FOM/2304/604/mpirun6 /lustre/orion/scratch/mcamacho/csc728/FOM/2304
+/lustre/orion/scratch/mcamacho/csc728/FOM/2304
+/lustre/orion/scratch/mcamacho/csc728/FOM/2304/604/mpirun7 /lustre/orion/scratch/mcamacho/csc728/FOM/2304
+/lustre/orion/scratch/mcamacho/csc728/FOM/2304
+/lustre/orion/scratch/mcamacho/csc728/FOM/2304/604/mpirun8 /lustre/orion/scratch/mcamacho/csc728/FOM/2304
+/lustre/orion/scratch/mcamacho/csc728/FOM/2304
+/lustre/orion/scratch/mcamacho/csc728/FOM/2304/604/mpirun9 /lustre/orion/scratch/mcamacho/csc728/FOM/2304
+/lustre/orion/scratch/mcamacho/csc728/FOM/2304
+/lustre/orion/scratch/mcamacho/csc728/FOM/2304/604/mpirun10 /lustre/orion/scratch/mcamacho/csc728/FOM/2304
+/lustre/orion/scratch/mcamacho/csc728/FOM/2304
+/lustre/orion/scratch/mcamacho/csc728/FOM/2304/604/mpirun11 /lustre/orion/scratch/mcamacho/csc728/FOM/2304
+/lustre/orion/scratch/mcamacho/csc728/FOM/2304
+/lustre/orion/scratch/mcamacho/csc728/FOM/2304/604/mpirun12 /lustre/orion/scratch/mcamacho/csc728/FOM/2304
+/lustre/orion/scratch/mcamacho/csc728/FOM/2304
+/lustre/orion/scratch/mcamacho/csc728/FOM/2304/604/mpirun13 /lustre/orion/scratch/mcamacho/csc728/FOM/2304
+/lustre/orion/scratch/mcamacho/csc728/FOM/2304
+/lustre/orion/scratch/mcamacho/csc728/FOM/2304/604/mpirun14 /lustre/orion/scratch/mcamacho/csc728/FOM/2304
+/lustre/orion/scratch/mcamacho/csc728/FOM/2304
+/lustre/orion/scratch/mcamacho/csc728/FOM/2304/604/mpirun15 /lustre/orion/scratch/mcamacho/csc728/FOM/2304
+/lustre/orion/scratch/mcamacho/csc728/FOM/2304
+/lustre/orion/scratch/mcamacho/csc728/FOM/2304/604/mpirun16 /lustre/orion/scratch/mcamacho/csc728/FOM/2304
+/lustre/orion/scratch/mcamacho/csc728/FOM/2304
+/lustre/orion/scratch/mcamacho/csc728/FOM/2304/604/mpirun17 /lustre/orion/scratch/mcamacho/csc728/FOM/2304
+/lustre/orion/scratch/mcamacho/csc728/FOM/2304
+/lustre/orion/scratch/mcamacho/csc728/FOM/2304/604/mpirun18 /lustre/orion/scratch/mcamacho/csc728/FOM/2304
+/lustre/orion/scratch/mcamacho/csc728/FOM/2304
+/lustre/orion/scratch/mcamacho/csc728/FOM/2304/604/mpirun19 /lustre/orion/scratch/mcamacho/csc728/FOM/2304
+/lustre/orion/scratch/mcamacho/csc728/FOM/2304
+/lustre/orion/scratch/mcamacho/csc728/FOM/2304/604/mpirun20 /lustre/orion/scratch/mcamacho/csc728/FOM/2304
+/lustre/orion/scratch/mcamacho/csc728/FOM/2304
+/lustre/orion/scratch/mcamacho/csc728/FOM/2304/604/mpirun21 /lustre/orion/scratch/mcamacho/csc728/FOM/2304
+/lustre/orion/scratch/mcamacho/csc728/FOM/2304
+/lustre/orion/scratch/mcamacho/csc728/FOM/2304/604/mpirun22 /lustre/orion/scratch/mcamacho/csc728/FOM/2304
+/lustre/orion/scratch/mcamacho/csc728/FOM/2304
+/lustre/orion/scratch/mcamacho/csc728/FOM/2304/604/mpirun23 /lustre/orion/scratch/mcamacho/csc728/FOM/2304
+/lustre/orion/scratch/mcamacho/csc728/FOM/2304
+/lustre/orion/scratch/mcamacho/csc728/FOM/2304/604/mpirun24 /lustre/orion/scratch/mcamacho/csc728/FOM/2304
+/lustre/orion/scratch/mcamacho/csc728/FOM/2304
+/lustre/orion/scratch/mcamacho/csc728/FOM/2304/604/mpirun25 /lustre/orion/scratch/mcamacho/csc728/FOM/2304
+/lustre/orion/scratch/mcamacho/csc728/FOM/2304
+/lustre/orion/scratch/mcamacho/csc728/FOM/2304/604/mpirun26 /lustre/orion/scratch/mcamacho/csc728/FOM/2304
+/lustre/orion/scratch/mcamacho/csc728/FOM/2304
+/lustre/orion/scratch/mcamacho/csc728/FOM/2304/604/mpirun27 /lustre/orion/scratch/mcamacho/csc728/FOM/2304
+/lustre/orion/scratch/mcamacho/csc728/FOM/2304
+/lustre/orion/scratch/mcamacho/csc728/FOM/2304/604/mpirun28 /lustre/orion/scratch/mcamacho/csc728/FOM/2304
+/lustre/orion/scratch/mcamacho/csc728/FOM/2304
+/lustre/orion/scratch/mcamacho/csc728/FOM/2304/604/mpirun29 /lustre/orion/scratch/mcamacho/csc728/FOM/2304
+/lustre/orion/scratch/mcamacho/csc728/FOM/2304
+/lustre/orion/scratch/mcamacho/csc728/FOM/2304/604/mpirun30 /lustre/orion/scratch/mcamacho/csc728/FOM/2304
+/lustre/orion/scratch/mcamacho/csc728/FOM/2304
+/lustre/orion/scratch/mcamacho/csc728/FOM/2304/604/mpirun31 /lustre/orion/scratch/mcamacho/csc728/FOM/2304
+/lustre/orion/scratch/mcamacho/csc728/FOM/2304
+/lustre/orion/scratch/mcamacho/csc728/FOM/2304/604/mpirun32 /lustre/orion/scratch/mcamacho/csc728/FOM/2304
+/lustre/orion/scratch/mcamacho/csc728/FOM/2304
+/lustre/orion/scratch/mcamacho/csc728/FOM/2304/604/mpirun33 /lustre/orion/scratch/mcamacho/csc728/FOM/2304
+/lustre/orion/scratch/mcamacho/csc728/FOM/2304
+/lustre/orion/scratch/mcamacho/csc728/FOM/2304/604/mpirun34 /lustre/orion/scratch/mcamacho/csc728/FOM/2304
+/lustre/orion/scratch/mcamacho/csc728/FOM/2304
+/lustre/orion/scratch/mcamacho/csc728/FOM/2304/604/mpirun35 /lustre/orion/scratch/mcamacho/csc728/FOM/2304
+/lustre/orion/scratch/mcamacho/csc728/FOM/2304
+/lustre/orion/scratch/mcamacho/csc728/FOM/2304/604/mpirun36 /lustre/orion/scratch/mcamacho/csc728/FOM/2304
+/lustre/orion/scratch/mcamacho/csc728/FOM/2304
+/lustre/orion/scratch/mcamacho/csc728/FOM/2304/604/mpirun37 /lustre/orion/scratch/mcamacho/csc728/FOM/2304
+/lustre/orion/scratch/mcamacho/csc728/FOM/2304
+/lustre/orion/scratch/mcamacho/csc728/FOM/2304/604/mpirun38 /lustre/orion/scratch/mcamacho/csc728/FOM/2304
+/lustre/orion/scratch/mcamacho/csc728/FOM/2304
+/lustre/orion/scratch/mcamacho/csc728/FOM/2304/604/mpirun39 /lustre/orion/scratch/mcamacho/csc728/FOM/2304
+/lustre/orion/scratch/mcamacho/csc728/FOM/2304
+/lustre/orion/scratch/mcamacho/csc728/FOM/2304/604/mpirun40 /lustre/orion/scratch/mcamacho/csc728/FOM/2304
+/lustre/orion/scratch/mcamacho/csc728/FOM/2304
+/lustre/orion/scratch/mcamacho/csc728/FOM/2304/604/mpirun41 /lustre/orion/scratch/mcamacho/csc728/FOM/2304
+/lustre/orion/scratch/mcamacho/csc728/FOM/2304
+/lustre/orion/scratch/mcamacho/csc728/FOM/2304/604/mpirun42 /lustre/orion/scratch/mcamacho/csc728/FOM/2304
+/lustre/orion/scratch/mcamacho/csc728/FOM/2304
+/lustre/orion/scratch/mcamacho/csc728/FOM/2304/604/mpirun43 /lustre/orion/scratch/mcamacho/csc728/FOM/2304
+/lustre/orion/scratch/mcamacho/csc728/FOM/2304
+/lustre/orion/scratch/mcamacho/csc728/FOM/2304/604/mpirun44 /lustre/orion/scratch/mcamacho/csc728/FOM/2304
+/lustre/orion/scratch/mcamacho/csc728/FOM/2304
+/lustre/orion/scratch/mcamacho/csc728/FOM/2304/604/mpirun45 /lustre/orion/scratch/mcamacho/csc728/FOM/2304
+/lustre/orion/scratch/mcamacho/csc728/FOM/2304
+/lustre/orion/scratch/mcamacho/csc728/FOM/2304/604/mpirun46 /lustre/orion/scratch/mcamacho/csc728/FOM/2304
+/lustre/orion/scratch/mcamacho/csc728/FOM/2304
+/lustre/orion/scratch/mcamacho/csc728/FOM/2304/604/mpirun47 /lustre/orion/scratch/mcamacho/csc728/FOM/2304
+/lustre/orion/scratch/mcamacho/csc728/FOM/2304
+[2026-10-01T18:35:24.328] error: *** JOB 5580401 ON frontier00002 CANCELLED AT 2026-10-01T18:35:24 DUE TO TIME LIMIT ***
